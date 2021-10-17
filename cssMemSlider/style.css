@@ -171,6 +171,28 @@ body{
   
 
 
+  @media (max-width:880px){
+    .slider_content{
+      max-width: 80vw;
+      height: 80vw;
+      max-height: 60vh;
+    }
+    .slider_footer{
+      max-width: 80vw;
+    }
+  }
+  
+
+@media (max-width:880px){
+  .slider_content{
+    max-width: 80vw;
+    height: 80vw;
+    max-height: 60vh;
+  }
+  .slider_footer{
+    max-width: 80vw;
+  }
+}
 
 
 @keyframes click {
