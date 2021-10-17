@@ -36,8 +36,8 @@ body{
 }
 .slider_content{
   max-width: 80vw;
-  height: 80vw;
-  max-height: 60vh;
+  height: 85vw;
+  max-height: 75vh;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
@@ -122,7 +122,7 @@ body{
  .slider_citata{
    width: 20%;
    align-items: center;
-   font-size: 1vw;
+   font-size: 1.5vw;
    color: rgb(197, 196, 196);
  }
  .slider input:nth-of-type(1):active
@@ -176,8 +176,8 @@ body{
   @media (max-width:880px){
     .slider_content{
       max-width: 80vw;
-      height: 80vw;
-      max-height: 60vh;
+      height: 85vw;
+      max-height: 70vh;
     }
     .slider_footer{
       max-width: 80vw;
